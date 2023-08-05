@@ -1,0 +1,26 @@
+
+nav {
+    background-color: #4285F4;
+    color: #FFF;
+    padding: 10px;
+  }
+  
+  nav h1 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  #weather-info,
+  #traffic-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px;
+  }
+  
+
+  #map {
+
+  }
+  
